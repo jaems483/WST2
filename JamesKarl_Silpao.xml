@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Users>
+
+    <user id="1">
+        <image>https://scontent.fmnl40-2.fna.fbcdn.net/v/t1.15752-9/485229619_9954098631290521_3459265489846931215_n.jpg?stp=dst-jpg_s480x480_tt6&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeHsYcIfL5TTWHLJ3mv73V8PPLnjmuzPYJs8ueOa7M9gm9sfBTKXy4nnVtwKBzzfU3YGggCGzky-k2dHjuQa4IeO&amp;_nc_ohc=OJ0DKm-nWTwQ7kNvgG7YAW2&amp;_nc_oc=Adk1dbsJ_iGuMEqSvn-y7IQbv1Varbz9bD9idlJIdH-7CbUyHY5aSBm_0aRx6bo75fY&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-2.fna&amp;oh=03_Q7cD1wFo4IEI2Y6KgHxhEYnClvvzyg8_B9af3sxPmcVmfwblog&amp;oe=680DC5D9</image>
+        <name>James Karl Silpao</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+
+    <user id="2">
+        <image>https://scontent.fmnl40-2.fna.fbcdn.net/v/t1.15752-9/486487582_1381402489712764_7102710255823253234_n.jpg?stp=dst-jpg_s480x480_tt6&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeGZoAXvoXgDGlExtfiJKRvSLBiSakGTfNosGJJqQZN82kQpjNljrGn0T0xTkojfVAt9KI90hJ61qD7wUOUScqhC&amp;_nc_ohc=VvuLYBSCAoQQ7kNvgHc_b00&amp;_nc_oc=Adm52nePmmCrMskOws73LSPJOLa6MfaXv3rCznmzV5oGJWj3-ndC67E_K_dPgIy9zAs&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-2.fna&amp;oh=03_Q7cD1wFUzaXwb8UI92dn0Q9wCe341yjX8EfMCI3MWiwTTrLQmA&amp;oe=680DA214</image>
+        <name>Jericho Dineros</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+
+    <user id="3">
+        <image>https://scontent.fmnl40-1.fna.fbcdn.net/v/t1.15752-9/460295188_1253889536046921_4136338677133876967_n.jpg?stp=dst-jpg_s480x480_tt6&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeGTnB-ykpJBd2n4I2QD4LMvtJNzQyrMEOG0k3NDKswQ4So3rUCVAbQ50k9AiRttqBo6aTEA0j2g-OqciCj9SvGj&amp;_nc_ohc=Rj9we5BHI4gQ7kNvgEzKmSo&amp;_nc_oc=Adnut-cnmqlNtjoZTet_s0DLMnVk48AYECV_Je0gDHGTPwoSwlWC3WezoThIMZfrTZ4&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-1.fna&amp;oh=03_Q7cD1wG3TuWEvMdKpa246WagbJzqaYks3YI6fCdPk4SdI-RW3Q&amp;oe=680DAAAE</image>
+        <name>Ivan Alcantara</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+
+    <user id="4">
+        <image>https://scontent.fmnl40-2.fna.fbcdn.net/v/t1.15752-9/485878199_512602438367778_6397236702107285005_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeELRt-UaVUKw2Bn9gs1D3Fc87QxQ84SVkzztDFDzhJWTKfyDSXD1g3DMRc6LsJ15ixoEpbUKWw6Hesb59LQJcyM&amp;_nc_ohc=aAEKWFdISFkQ7kNvgHBU2ve&amp;_nc_oc=AdklKMPMcfJVMMRNPXtELt-HLW5rcF3unw2dEPlI0CD22zgYxVbvEdwBPXEVBRm9mQ8&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-2.fna&amp;oh=03_Q7cD1wEc4oGQA1ROeMwQaJQlwURcvIEVEQ5efs7ng3GjxFeygg&amp;oe=680DCD8D</image>
+        <name>Roven Gallo</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+
+    <user id="5">
+        <image>https://scontent.fmnl40-2.fna.fbcdn.net/v/t1.15752-9/486149760_1338904170660654_2846549835432586048_n.png?stp=cp0_dst-png&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeGJBuGTnXZqGfP_-cjU6GC1icLP8svJ1MWJws_yy8nUxb255NoOjqZq08RVkbXAi_LpAfnstsodVDDJy6YAPEIB&amp;_nc_ohc=bmPwUa5gmdEQ7kNvgGfPO8o&amp;_nc_oc=AdnnX_X_89NoM6v-2nSpSvAFBIX1JNef9PvjB6kEMJ1rtFCCsULnJihxkD4Nos9i0fo&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-2.fna&amp;oh=03_Q7cD1wEa78vAKeVioxsq7Q9zz1f-eJTiwQupT37sSJs_Sev_vQ&amp;oe=680DAF22</image>
+        <name>Frenzon Tolentino</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+
+    <user id="6">
+        <image>https://scontent.fmnl40-1.fna.fbcdn.net/v/t1.15752-9/486798483_1348021423189332_2981593891793392887_n.jpg?stp=dst-jpg_s480x480_tt6&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeFiXogJGqgrUcfQhJpZdzJTKPZxE_XkYIko9nET9eRgic-EiQEHUfyl8XqaGHnG3goaxKIOvblldumFaIlQA22B&amp;_nc_ohc=xGYqneXg9e8Q7kNvgFfvRpA&amp;_nc_oc=AdkvW8xVDVabYHHgBtG3wj0E2yvZfFmM-wKTebobDvwCUcoeE62fw2m9hEiqLyqi_lc&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-1.fna&amp;oh=03_Q7cD1wFkQQEihTHVcMvnz_wIPJfyfvD-1PeGJi4u7-CHkcpttw&amp;oe=680DC212</image>
+        <name>Paul Anthony Valderama</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+
+    <user id="7">
+        <image>https://scontent.fmnl40-1.fna.fbcdn.net/v/t1.15752-9/486163851_1068482621778916_130191470039811471_n.png?stp=dst-png_s480x480&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeEgaKwIHTpXDBYy5Bv-ddJD8At66w6SPenwC3rrDpI96f93XolQlJxQFpl1Vsu8OJt4EFdzMg4CNqZBE72cxJVe&amp;_nc_ohc=KcbANUSOTuUQ7kNvgF8y4Tf&amp;_nc_oc=AdlUJegwolzGdUE6vu6WRjKB_Tajc_-DXHdUgMtYNmrYrdDPXKqLcX3oUjrkU4z_8fE&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-1.fna&amp;oh=03_Q7cD1wFFXN8FDXSsFv_wDZPxEc60BdKwLkoHf2q5TeRp57FoPw&amp;oe=680DC3B0</image>
+        <name>Ian Lawrence M. Juan</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+
+    <user id="8">
+        <image>https://scontent.fmnl40-2.fna.fbcdn.net/v/t1.15752-9/485871311_2481201398879624_1038255494581398603_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeGd7KwcMvD6aGl3r5w8KGIKgk-y8LxMzCiCT7LwvEzMKEJd_86CTQvnZ4Earz3nWXsBduP-IehXf66Q8jBfGD1s&amp;_nc_ohc=wjtA-Ny0ZDgQ7kNvgEscvx-&amp;_nc_oc=AdkIkLxBHOQQX-90MpXIf25PcKgkPELJJuXX3Mbscba-ad3jQwrwow5gh0X2OvY0c6E&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-2.fna&amp;oh=03_Q7cD1wHGwsTRvXAj27RdzKS29_ggimanKTPei7kjcTCETxxH7g&amp;oe=680DA390</image>
+        <name>Jan Andrei Caballero</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+
+    <user id="9">
+        <image>https://scontent.fmnl40-2.fna.fbcdn.net/v/t1.15752-9/485719172_1707034813501932_3932053944495245471_n.png?stp=dst-png_p480x480&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeEooiQuhdBHtN5mXv7z2uMlEV3LQKWcOiURXctApZw6JZwtObfOfU7Q_2uvbKexsBK0e4HovsYmajM-3VZgnmOo&amp;_nc_ohc=54mnYrHPV0QQ7kNvgHk5KZ2&amp;_nc_oc=Adlyd9_GYBUUp58FOXDQgpX9BWidiruDjboOba-tcTafRmmklEhjL_A6ohb4pjUgO8o&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-2.fna&amp;oh=03_Q7cD1wEUeDQq3F4OnIx0GvAH4AKoNtFBM3aDnqUg-nLwnH06tw&amp;oe=680DA230</image>
+        <name>Yhuri Evangelista</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+
+    <user id="10">
+        <image>https://scontent.fmnl40-1.fna.fbcdn.net/v/t1.15752-9/485682396_1435789554052641_6528263495170723459_n.png?stp=cp0_dst-png&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=0024fc&amp;_nc_eui2=AeG6bvKqA3Ua9P3jH8pr3F8O64HPltc8pwzrgc-W1zynDB6cMMehh1YA1IV4smZlZHSSMDUTehHOf3eIkUCXEHba&amp;_nc_ohc=HPqVhrvhbP8Q7kNvgF8Je7D&amp;_nc_oc=AdmVyOsNu7ZxW7AKTIZyo5wka8bZlypcCOR1S7IxxB6FYz_ZDp_QfNGzm6vzD-nPb7U&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent.fmnl40-1.fna&amp;oh=03_Q7cD1wFnD9R5PDkP44_qaK0d-PhFR-T8xmtMOwvEinYSt7rjLQ&amp;oe=680DD825</image>
+        <name>Israel Alejandrino</name>
+        <course>BSIT</course>
+        <year_level_Section>3BG2</year_level_Section>
+        <adviser>Sheldon V. Arenas</adviser>
+        <school_year>2025-2026</school_year>
+    </user>
+    
+</Users>
