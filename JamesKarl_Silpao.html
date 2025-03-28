@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Users</title>
+    <script>
+        function loadXMLDoc() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "JamesKarl_Silpao.xml", true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var xmlDoc = xhr.responseXML;
+                    var users = xmlDoc.getElementsByTagName("user");
+                    var text = "";
+                    for (var i = 0; i < users.length; i++) {
+                        var user = users[i];
+                        var image = user.childNodes[1].textContent;
+                        text += "<div class='contain'>";
+                        text += "<img src='" + image + "' width='100' height='100'>";
+                        text += "<div class='user'>";
+                        
+                        for (var j = 3; j < user.childNodes.length; j+=2) {
+                            var label = user.childNodes[j].nodeName.replace("_", " ");
+                            var label = user.childNodes[j].nodeName.replace("_", " ");
+                            var value = user.childNodes[j].textContent;
+                            text += "<p>" + label + ": " + value + "</p><br>";
+                        }
+                        text += "</div></div>";
+                    }
+                    document.getElementsByClassName("main_container")[0].innerHTML = text;
+                }
+            };
+            xhr.send();
+        };
+    </script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body onload="loadXMLDoc()">
+    <h1>ABC Colleges</h1>
+    <h3>Library Users</h3>
+    <div class="main_container">
+        
+    </div>
+</body>
+</html>
